@@ -9,6 +9,7 @@ const Navigation = () => {
 
   const navItems = [
     { href: "/", label: "Beranda" },
+    { href: "/jadwal", label: "Jadwal" },
     { href: "/tentang", label: "Tentang Kami" },
     { href: "/tim", label: "Tim" },
     { href: "/berita", label: "Berita" },
